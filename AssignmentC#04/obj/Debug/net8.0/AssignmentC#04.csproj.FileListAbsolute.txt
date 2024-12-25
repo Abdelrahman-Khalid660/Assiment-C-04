@@ -1,0 +1,28 @@
+D:\Mahmoud\Computer Science\Route Mentoring\workshops\AssignmentC#04\AssignmentC#04\bin\Debug\net8.0\AssignmentC#04.exe
+D:\Mahmoud\Computer Science\Route Mentoring\workshops\AssignmentC#04\AssignmentC#04\bin\Debug\net8.0\AssignmentC#04.deps.json
+D:\Mahmoud\Computer Science\Route Mentoring\workshops\AssignmentC#04\AssignmentC#04\bin\Debug\net8.0\AssignmentC#04.runtimeconfig.json
+D:\Mahmoud\Computer Science\Route Mentoring\workshops\AssignmentC#04\AssignmentC#04\bin\Debug\net8.0\AssignmentC#04.dll
+D:\Mahmoud\Computer Science\Route Mentoring\workshops\AssignmentC#04\AssignmentC#04\bin\Debug\net8.0\AssignmentC#04.pdb
+D:\Mahmoud\Computer Science\Route Mentoring\workshops\AssignmentC#04\AssignmentC#04\obj\Debug\net8.0\AssignmentC#04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mahmoud\Computer Science\Route Mentoring\workshops\AssignmentC#04\AssignmentC#04\obj\Debug\net8.0\AssignmentC#04.AssemblyInfoInputs.cache
+D:\Mahmoud\Computer Science\Route Mentoring\workshops\AssignmentC#04\AssignmentC#04\obj\Debug\net8.0\AssignmentC#04.AssemblyInfo.cs
+D:\Mahmoud\Computer Science\Route Mentoring\workshops\AssignmentC#04\AssignmentC#04\obj\Debug\net8.0\AssignmentC#04.csproj.CoreCompileInputs.cache
+D:\Mahmoud\Computer Science\Route Mentoring\workshops\AssignmentC#04\AssignmentC#04\obj\Debug\net8.0\AssignmentC#04.dll
+D:\Mahmoud\Computer Science\Route Mentoring\workshops\AssignmentC#04\AssignmentC#04\obj\Debug\net8.0\refint\AssignmentC#04.dll
+D:\Mahmoud\Computer Science\Route Mentoring\workshops\AssignmentC#04\AssignmentC#04\obj\Debug\net8.0\AssignmentC#04.pdb
+D:\Mahmoud\Computer Science\Route Mentoring\workshops\AssignmentC#04\AssignmentC#04\obj\Debug\net8.0\AssignmentC#04.genruntimeconfig.cache
+D:\Mahmoud\Computer Science\Route Mentoring\workshops\AssignmentC#04\AssignmentC#04\obj\Debug\net8.0\ref\AssignmentC#04.dll
+C:\Users\islam\OneDrive\Desktop\C#04\AssignmentC#04\bin\Debug\net8.0\AssignmentC#04.exe
+C:\Users\islam\OneDrive\Desktop\C#04\AssignmentC#04\bin\Debug\net8.0\AssignmentC#04.deps.json
+C:\Users\islam\OneDrive\Desktop\C#04\AssignmentC#04\bin\Debug\net8.0\AssignmentC#04.runtimeconfig.json
+C:\Users\islam\OneDrive\Desktop\C#04\AssignmentC#04\bin\Debug\net8.0\AssignmentC#04.dll
+C:\Users\islam\OneDrive\Desktop\C#04\AssignmentC#04\bin\Debug\net8.0\AssignmentC#04.pdb
+C:\Users\islam\OneDrive\Desktop\C#04\AssignmentC#04\obj\Debug\net8.0\AssignmentC#04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islam\OneDrive\Desktop\C#04\AssignmentC#04\obj\Debug\net8.0\AssignmentC#04.AssemblyInfoInputs.cache
+C:\Users\islam\OneDrive\Desktop\C#04\AssignmentC#04\obj\Debug\net8.0\AssignmentC#04.AssemblyInfo.cs
+C:\Users\islam\OneDrive\Desktop\C#04\AssignmentC#04\obj\Debug\net8.0\AssignmentC#04.csproj.CoreCompileInputs.cache
+C:\Users\islam\OneDrive\Desktop\C#04\AssignmentC#04\obj\Debug\net8.0\AssignmentC#04.dll
+C:\Users\islam\OneDrive\Desktop\C#04\AssignmentC#04\obj\Debug\net8.0\refint\AssignmentC#04.dll
+C:\Users\islam\OneDrive\Desktop\C#04\AssignmentC#04\obj\Debug\net8.0\AssignmentC#04.pdb
+C:\Users\islam\OneDrive\Desktop\C#04\AssignmentC#04\obj\Debug\net8.0\AssignmentC#04.genruntimeconfig.cache
+C:\Users\islam\OneDrive\Desktop\C#04\AssignmentC#04\obj\Debug\net8.0\ref\AssignmentC#04.dll
